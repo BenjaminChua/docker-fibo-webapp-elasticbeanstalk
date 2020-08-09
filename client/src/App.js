@@ -9,7 +9,7 @@ function App() {
 	return (
 		<Router>
 			<div className="App">
-				<h1 className="App-title"> Welcome to React </h1>
+				<h1 className="App-title"> Fib Calculator </h1>
 				<Link to="/"> Home </Link>
 				<br />
 				<Link to="/otherpage"> Other Page </Link>
